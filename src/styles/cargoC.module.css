@@ -1,0 +1,10 @@
+.content{
+    display: flex;
+    justify-content: space-between;
+
+    background-color: rgb(116, 168, 56);
+}
+#subContent{
+    width: 500px;
+    background-color: green;
+}

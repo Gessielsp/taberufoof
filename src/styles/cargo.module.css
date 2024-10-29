@@ -24,7 +24,7 @@
   color: #06c167;
   font-size: 16px;
 }
-#BtnBox {
+#conteudoPrincipal {
   margin: 50px 0 0 80px;
   border-radius: 5px;
   background-color: #fff;
@@ -74,4 +74,9 @@
 
 #btnUnico:active {
   transform: scale(0.95);
+}
+#renderizaTelaBotao{
+}
+#btnVoltar{
+  background-color: red;
 }
